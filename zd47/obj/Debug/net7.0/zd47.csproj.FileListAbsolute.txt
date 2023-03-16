@@ -1,0 +1,15 @@
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\bin\Debug\net7.0\zd47.exe
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\bin\Debug\net7.0\zd47.deps.json
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\bin\Debug\net7.0\zd47.runtimeconfig.json
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\bin\Debug\net7.0\zd47.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\bin\Debug\net7.0\zd47.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\zd47.csproj.AssemblyReference.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\zd47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\zd47.AssemblyInfoInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\zd47.AssemblyInfo.cs
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\zd47.csproj.CoreCompileInputs.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\zd47.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\refint\zd47.dll
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\zd47.pdb
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\zd47.genruntimeconfig.cache
+C:\Users\yuliy\Desktop\dom.zadanie\zadanie 7\practika-7\zd47\obj\Debug\net7.0\ref\zd47.dll
